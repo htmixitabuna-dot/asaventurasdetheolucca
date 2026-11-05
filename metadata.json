@@ -1,0 +1,6 @@
+{
+  "name": "Theo Lucca, o Herói do Amor",
+  "description": "Jogo de aventura para Theo Lucca resgatar o Ursinho Amor e o Ursinho Carinho em 10 fases épicas com a Super Moto e o Poder da Teia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
